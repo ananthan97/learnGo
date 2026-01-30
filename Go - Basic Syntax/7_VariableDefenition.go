@@ -16,10 +16,12 @@ import "fmt"
 		var name string = "John"
 	3. Using type inference (the compiler infers the type based on the assigned value):
 		var variableName = value
+		go is strongly typed, so the type is determined by the value assigned. It cannot change later.
 	Example:
 		var isActive = true
 	4. Short variable declaration (only inside functions):
 		variableName := value
+		go is strongly typed, so the type is determined by the value assigned. It cannot change later.
 	Example:
 		count := 10
 	You can also define multiple variables at once:
