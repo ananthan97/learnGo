@@ -13,3 +13,5 @@
 ### 2.10 The select statement - https://github.com/ananthan97/learnGo/blob/main/Go%20-%20Basic%20Syntax/10_select_statement.go
 ### 2.11 The for Loop - https://github.com/ananthan97/learnGo/blob/main/Go%20-%20Basic%20Syntax/11_for_loop.go
 ### 2.12 The break, continue, and goto statements - https://github.com/ananthan97/learnGo/blob/main/Go%20-%20Basic%20Syntax/12_break_continue_goto.go
+## 3 Data Types - https://github.com/ananthan97/learnGo/tree/main/Go%20-%20Data%20Types
+## 4 Variables - https://github.com/ananthan97/learnGo/blob/main/Go%20-%20Variables/Variables.go
