@@ -16,7 +16,8 @@ func main() {
 	   When you run a Go program, execution starts from the 'main' function.
 	   Every standalone Go application must have a 'main' function in the 'main' package. */
 	fmt.Println("Hello, World!")
-	//4. Print Statement
+	var f float64 = 0xFeeL
+	fmt.Println(314159E-5L)	//4. Print Statement
 	/* This line calls the 'Println' function from the 'fmt' package to print the string "Hello, World!" to the console.
 	   'Println' stands for "print line" and it outputs the provided arguments followed by a newline character.
 	   In this case, it prints the classic greeting message used in programming tutorials.

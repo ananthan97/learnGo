@@ -43,4 +43,11 @@ func forLoop() {
 			fmt.Printf("i: %d, j: %d\n", i, j)
 		}
 	}
+
+	//while loop using for
+	n := 10
+	for n > 0 {
+		fmt.Println("n:", n)
+		n--
+	}
 }
